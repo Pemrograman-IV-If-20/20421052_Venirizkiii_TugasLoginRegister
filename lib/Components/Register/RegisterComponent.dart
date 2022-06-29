@@ -28,7 +28,7 @@ class _Registeromponent extends State<RegisterComponent> {
                 ),
                 SimpleShadow(
                   child: Image.asset(
-                    "assets/image/icon.png",
+                    "assets/image/guitar.png",
                     height: 150,
                     width: 202,
                   ),
